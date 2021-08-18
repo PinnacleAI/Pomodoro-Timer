@@ -1,0 +1,8 @@
+
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file alias="wall clock">images/wall_clock.png</file>
+        <file alias="splash image">images/pomodoro_splash.png</file>
+        <file alias="plus">images/plus.png</file>
+    </qresource>
+</RCC>
